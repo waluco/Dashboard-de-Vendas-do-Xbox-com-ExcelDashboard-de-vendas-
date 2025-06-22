@@ -1,6 +1,6 @@
 # Dashboard vendas
 
-## Dashboard que mostra informações sobre a venda de serviços de jogos do xbox.
+- Dashboard que mostra informações sobre a venda de serviços de jogos do xbox.
 
 ## Foi utilizada uma planilha com dados fictícios de venda de serviços de jogos do xbox.
 
